@@ -1,0 +1,77 @@
+In January 2020, there's a total of 26,020 trips, split between short-term customers at 1,584 trips
+and subscribers at 24,436 trips.
+
+There's a recorded total of 36,921 trips, split between short-term customers at 17,096 trips and 
+subscribers at 19,825 trips for the month of June in 2020.
+
+There has been a 70% growth in ridership from January to June.
+
+The number and percentage of short-term customers increase, while the number and percentage 
+of subscribers decrease.
+
+The peak hours for bike renters during the summer months are between 4 pm and 8 pm.
+For the winter, the hours vary and are more random at 8 am, 3 pm and 6 pm.
+
+The top 10 stations in the city during summer for starting a journey are:
+-Liberty Light Rail
+-Newport Pkwy
+-Lincoln Park
+-Columbus Dr
+-Hamiliton Park
+-Paulus Hook
+-Harborside
+-Grove ST Path
+-Marin Light Rail
+-Heights Elevator
+
+The top 10 stations in the city for ending a journey are:
+-Liberty Light Rail
+-Newport Pkwy
+-Columbus Dr
+-Hamiliton Park
+-Grove ST Path
+-Bergen Ave
+-Lincoln Park
+-Marin Light Rail
+-Paulus Hook
+
+The start and end stations are almost identical in popularity.
+
+The bottom 10 stations in the city during summer for starting journey are:
+-Christ Hospital
+-Glenwood Ave
+-Oakland Ave
+-Leonard Gordon
+-5 Corners Library
+-Dey St
+-Brunswick & 6th
+-Journal Square
+-Monmouth and 6th
+-Montgomery ST
+
+The bottom 10 stations in the city for ending journey are:
+-Broadway & W 49 st
+-6 Ave & W 33 st
+-Murray St & Greenwich St
+-North Moore St & Greenwich St
+-Clinton St & Joralemon St
+-E 39 St & 2 Ave
+-Vesey Pl & River Terrace
+-St James Pl & Oliver St
+-Park Pl & Franklin Ave
+-W 52St & 6 Ave
+
+There doesn't seem to be much similarity between them.
+
+There are more males than rent bikes in summer than females.
+On the other hand, during the winter, there are more females than males.
+It seems over the timespan, more females are open to renting bikes, but it seems like a seasonal
+condition.
+
+In June 2020, there is a large majority of people born in 1949 rent bikes. The second highest
+age of people that often rent bikes are born in 2002.
+The average trip duration doesn't fluctuate too heavily over the years, but there are random
+spikes.
+
+There seem to be 1 specific bike by the ID of 44430 that seems to be ridden the most at an
+average of 284,131 trip duration.
